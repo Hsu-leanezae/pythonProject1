@@ -2,3 +2,4 @@
 # 开发时间：2021/11/17 13:14
 print('xulingzhi')
 print('wangrou')
+print('2006')
